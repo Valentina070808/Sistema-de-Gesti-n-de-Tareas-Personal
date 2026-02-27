@@ -10,4 +10,18 @@ Un sistema simple y eficiente desarrollado en Python para gestionar tareas diari
 - ✅ **Persistencia de datos** en archivo JSON
 - ✅ **Sin dependencias externas** (solo librerías estándar de Python)
 
+## Tecnologías Usadas
+- Python 3.x
+- JSON para almacenamiento
+- unittest para pruebas
+
+## Instalación y Uso
+
+1. Clona o descarga el proyecto
+2. Abre la terminal en la carpeta del proyecto
+3. Ejecuta
+
+Ejecuta el programa con:
+```markdown
+python main.py
 
